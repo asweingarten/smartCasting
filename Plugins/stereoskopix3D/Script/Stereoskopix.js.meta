@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6378012d8068b4bc59c6c1570dccaf63
+labels:
+- stereoscopic
+- stereoscopy
+- active
+- stereo
+- 3d
+- shutter
+- glasses
+- DLP
+- HDTV
+- HDMI
+- DVI
+- bluray
+- anaglyph
+- nvidia
+- dual-link
+- dlp
+- hdtv
+- dvi
+- hdmi
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stereoMaterial: {fileID: 2100000, guid: 854bd5fa5367544278650926af9a3271, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

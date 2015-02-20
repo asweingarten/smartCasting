@@ -1,0 +1,50 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3165]
+    Renderer: NVIDIA GeForce GTX 570
+    Vendor:   NVIDIA
+    VRAM:     1232 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\SimpleJson.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\SimpleJson.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\SocketIO.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\SocketIO.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Common.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Common.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Core.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Core.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Protocol.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Protocol.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Proxy.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\SuperSocket.ClientEngine.Proxy.dll into Unity Child Domain
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\WebSocket4Net.dll (this message is harmless)
+Loading E:\3DSC\experimentnostereo_Data\Managed\WebSocket4Net.dll into Unity Child Domain
+- Completed reload, in  0.114 seconds
+desktop: 1920x1080 60Hz; virtual: 4480x1440 at -2560,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\3DSC\experimentnostereo_Data\Managed\System.dll (this message is harmless)
+socket client error:
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Error initializing handshake with http://192.168.0.100:8091/
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1539)
+

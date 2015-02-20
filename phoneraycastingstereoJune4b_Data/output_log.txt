@@ -1,0 +1,1217 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3311]
+    Renderer: NVIDIA Quadro 600
+    Vendor:   NVIDIA
+    VRAM:     977 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SimpleJson.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SimpleJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SocketIO.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SocketIO.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Common.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Common.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Core.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Protocol.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Protocol.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Proxy.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\SuperSocket.ClientEngine.Proxy.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\WebSocket4Net.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\WebSocket4Net.dll into Unity Child Domain
+- Completed reload, in  1.365 seconds
+desktop: 1280x720 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\phoneraycastingstereoJune4b_Data\Managed\System.dll (this message is harmless)
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+DllNotFoundException: UniWii
+  at (wrapper managed-to-native) phoneraycasting:wiimote_start ()
+  at phoneraycasting.Start () [0x00000] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:405 
+ 
+(Filename: C Line: 0)
+
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at phoneraycasting.Update () [0x00038] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:531 
+ 
+(Filename: C Line: 0)
+
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/UniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/.\libUniWii
+Fallback handler could not load library C:/Users/Krzysztof/Desktop/3DSC3/3DSC3/phoneraycastingstereoJune4b_Data/Mono/libUniWii
+DllNotFoundException: UniWii
+  at (wrapper managed-to-native) phoneraycasting:wiimote_stop ()
+  at phoneraycasting.OnApplicationQuit () [0x00000] in C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs:287 
+ 
+(Filename: C Line: 0)
+

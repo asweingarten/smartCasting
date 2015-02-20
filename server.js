@@ -1,0 +1,54 @@
+var app = require('http').createServer(handler)
+  , io = require('socket.io').listen(app)
+  , fs = require('fs')
+
+app.listen(8091);
+
+function handler (req, res) {
+  fs.readFile(__dirname + '/index.html',
+  function (err, data) {
+    if (err) {
+      res.writeHead(500);
+      return res.end('Error loading index.html');
+    }
+
+    res.writeHead(200);
+    res.end(data);
+  });
+}
+
+io.sockets.on('connection', function (socket) {
+  socket.emit('news', { hello: 'world' });
+
+
+  socket.on('accel', function (data) {
+    socket.broadcast.emit('accel', data);
+    console.log("accel: ", data);
+  });
+  
+  socket.on('gyro', function (data) {
+    socket.broadcast.emit('gyro', data);
+//    console.log("gyro: ", data);
+  });
+
+  socket.on('select', function (data) {
+    socket.broadcast.emit('select', data);
+ //   console.log("select: ", data);
+  });
+
+  socket.on('tapstart', function (data) {
+    socket.broadcast.emit('tapstart', data);
+//    console.log("tapstart: ", data);
+  });
+
+  socket.on('tapend', function (data) {
+    socket.broadcast.emit('tapend', data);
+//    console.log("tapend: ", data);
+  });
+
+  socket.on('tapmove', function (data) {
+    socket.broadcast.emit('tapmove', data);
+//    console.log("tapmove: ", data);
+  });
+
+});

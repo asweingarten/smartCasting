@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ed6d32020316c423cb0916beb2a6d665
+labels:
+- stereoscopic
+- stereoscopy
+- active
+- stereo
+- 3d
+- shutter
+- glasses
+- DLP
+- HDTV
+- HDMI
+- DVI
+- bluray
+- anaglyph
+- nvidia
+- dual-link
+- dlp
+- hdtv
+- dvi
+- hdmi
+ShaderImporter:
+  defaultTextures: []
+  userData: 

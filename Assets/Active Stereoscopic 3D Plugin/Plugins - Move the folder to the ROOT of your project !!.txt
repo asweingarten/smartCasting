@@ -1,0 +1,3 @@
+First of all, move the folder Plugins to the ROOT of your project.
+
+Otherwise, loading the Demo Scene and playing it will either throw a DllNotFoundException or crash Unity.

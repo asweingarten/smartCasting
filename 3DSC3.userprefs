@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/smartcastingMonoOccluded.cs">
+    <Files>
+      <File FileName="Assets/smartcastingMonoOccluded.cs" Line="513" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="smartcastingMonoOccluded.cs" selected="True" />
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Plugins" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>float.Parse (mx.ToString())</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycasting.cs" line="479" />
+      <Breakpoint enabled="false" file="C:\Users\Krzysztof\Desktop\3DSC3\3DSC3\Assets\phoneraycastingN.cs" line="352" />
+      <Breakpoint enabled="false" file="C:\Users\kp\Desktop\3DSC3\3DSC3\Assets\planecastingMono.cs" line="455" />
+      <Breakpoint enabled="false" file="C:\Users\kp\Desktop\3DSC3\3DSC3\Assets\planecastingMono.cs" line="38" />
+      <Breakpoint enabled="false" file="C:\Users\kp\Desktop\3DSC3\3DSC3\Assets\planecastingMono.cs" line="295" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
